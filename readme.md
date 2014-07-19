@@ -15,7 +15,7 @@ cd surzhik-layout
 ./setup
 ```
 
-Or manually copy `Surzhik (ru|ua).bundle` directory to `/Library/Keyboard Layouts`.
+Or manually copy `Surzhik.bundle` directory to `/Library/Keyboard Layouts`.
 
 And finally add the layout in Keyboard-Input Sources dialog.
 
@@ -30,4 +30,4 @@ cd surzhik-layout
 ./setup
 ```
 
-Or manually remove `Surzhik (ru|ua).bundle` directory from `/Library/Keyboard Layouts`.
+Or manually remove `Surzhik.bundle` directory from `/Library/Keyboard Layouts`.
