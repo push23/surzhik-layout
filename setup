@@ -1,0 +1,18 @@
+bundle_name='Surzhik (ru|ua).bundle'
+destination_filename="/Library/Keyboard Layouts/$bundle_name"
+
+if [ ! -e "$destination_filename" ]
+then
+  echo 'Installing Surzhik keyboard layout...'
+  sudo cp -r "$bundle_name" "$destination_filename"
+else
+  echo 'Uninstalling Surzhik keyboard layout...'
+  sudo rm -rf "$destination_filename"
+fi
+
+if [ $? -eq 0 ]
+then
+  echo 'Successfully complete.'
+else
+  echo 'Aborted due to an error.'
+fi

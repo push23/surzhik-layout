@@ -1,6 +1,33 @@
 # Surzhik
-## Mac Keyboard Layout
+
+A Mac keyboard layout for Ukrainian patriots.
 
 
 # Installation
-Copy .bundle file to /Library/Keyboard Layout and add new layout in Keyboard-Input Sources dialog
+
+  1. Clone the repository.
+  2. Navigate to the directory in a terminal or in Finder.
+  3. Run `setup` script in the terminal or open it in Finder.
+
+```bash
+git clone https://github.com/push23/surzhik-layout.git
+cd surzhik-layout
+./setup
+```
+
+Or manually copy `Surzhik (ru|ua).bundle` directory to `/Library/Keyboard Layouts`.
+
+And finally add the layout in Keyboard-Input Sources dialog.
+
+
+# Uninstallation
+
+  1. Navigate to `surzhik-layout` directory in a terminal or in Finder.
+  2. Run `setup` script in the terminal or open it in Finder.
+
+```bash
+cd surzhik-layout
+./setup
+```
+
+Or manually remove `Surzhik (ru|ua).bundle` directory from `/Library/Keyboard Layouts`.
