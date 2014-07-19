@@ -7,13 +7,13 @@
 	<key>CFBundleName</key>
 	<string>Surzhik</string>
 	<key>CFBundleVersion</key>
-	<string>0.2.0</string>
+	<string>1.0</string>
 	<key>KLInfo_Surzhik</key>
 	<dict>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.surzhik.surzhik</string>
 		<key>TISIntendedLanguage</key>
-		<string>en-UA</string>
+		<string>ru-UA</string>
 	</dict>
 </dict>
 </plist>
