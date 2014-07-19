@@ -31,3 +31,8 @@ cd surzhik-layout
 ```
 
 Or manually remove `Surzhik.bundle` directory from `/Library/Keyboard Layouts`.
+
+
+# Troubleshooting
+
+If after installation and adding the layout you cannot switch to it in some programs, please, restart your Mac.
