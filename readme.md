@@ -1,6 +1,6 @@
 # Surzhik
 
-A Mac keyboard layout for Ukrainian patriots.
+A Mac keyboard layout for russian-speaking Ukrainian patriots.
 
 
 # Installation
