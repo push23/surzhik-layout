@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>1.0</string>
+	<string>0.2.0</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>0.2.0</string>
 	<key>ProjectName</key>
-	<string>Surzhik (ru|ua)</string>
+	<string>Surzhik</string>
 	<key>SourceVersion</key>
 	<string>1000</string>
 </dict>
