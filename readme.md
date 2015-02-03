@@ -2,6 +2,10 @@
 
 A Mac keyboard layout for russian-speaking Ukrainian patriots.
 
+# Layout
+
+![](https://raw.githubusercontent.com/push23/surzhik-layout/master/screenshots/Surzhik%20Schema.png)
+
 
 # Installation
 
